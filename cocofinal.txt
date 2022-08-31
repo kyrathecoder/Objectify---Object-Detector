@@ -1,0 +1,82 @@
+person - a being 
+bicycle - transportation/fitness purpose
+car - trabsportation purpose
+motorbike - transportation purpose
+aeroplane - transportation purpose
+bus - transportation purpose
+train - public transportation
+truck - heavy motor contains goods
+boat - water transportation
+traffic light - determines your movement on the road
+fire hydrant - required for putting out fire
+stop sign - alarms to stop
+parking meter - accounts car parking
+bench - furniture to sit on
+bird - animal aves class 
+cat - animal, munchkin breed
+dog - animal, retriever breed
+horse - animal
+sheep - animal
+cow - a mammal animal
+elephant - a mammal animal
+bear - an animal
+zebra - an animal
+giraffe - an animal
+backpack - bag 
+umbrella - object to protect rain
+handbag - used to store items
+tie - piece of clothing
+suitcase - item to store stuff
+frisbee - object to play
+skis - used for winter sports
+snowboard - used for winter sports
+sports ball - object for sports play
+kite - object for play
+baseball bat - object for sport
+baseball glove - object for sport
+skateboard - object to play
+surfboard - object for water sport
+tennis racket - object for tennis sport
+bottle - plastic materiel storing water
+wine glass - storing wine and glass material
+cup - plastic storing liquid
+fork - metal material used to eat
+knife - metal material used to eat
+spoon - metal material used to eat
+bowl - containing food
+banana - yellow fruit
+apple - red fruit
+sandwich - contains bread and fillings
+orange - fruit, orange in color
+broccoli - green vegtable
+carrot - orange vegtable
+hot dog - meat and bread dish
+pizza - italian food dish
+donut - sweet desert
+cake - sweet desert
+chair - furniture for you to sit
+sofa - furniture for you to sit
+pottedplant - green plant in pot
+bed - furniture for you to rest
+diningtable - furniture to sit/eat
+toilet - room for personal use
+tvmonitor - entertainment object
+laptop - electronic device
+mouse- electronic addition
+remote - electronic control
+keyboard - electronic additioj=n
+cell phone - iphone model 5
+microwave- used to heat food
+oven - used to cook food
+toaster- used to heat bread
+sink - water supply
+refrigerator - stores food/cold items
+book - object to read
+clock - tells the time
+vase - fragile object
+scissors - sharp object for cutting
+teddy bear - object for play
+hair drier - electric hair heater
+panadol - a pain killer medicine
+claritine - an anti allergy medicine
+toothbrush - cleans teeth
