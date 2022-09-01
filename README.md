@@ -7,3 +7,8 @@ Objectify is a fully functioning machine which can scan objects around it throug
 Thank you for your time :)
 
 Kyra B.
+
+Yolo weights file: https://drive.google.com/file/d/1KHUp_M-qEkTkQu3XJ7XNAj6oYpdRjYgr/view?usp=drive_web 
+Please click to download! 
+
+Happy coding :)
